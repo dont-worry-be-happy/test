@@ -5,7 +5,7 @@ Python 3.7 or newer, pip, pytest for python 3
 ### Instalation
 Clone repo & change directory to project home  
 ```
-git clone https:https://github.com/dont-worry-be-happy/test.git
+git clone https://github.com/dont-worry-be-happy/test.git
 cd shifts
 ```
 
